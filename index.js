@@ -11,10 +11,29 @@ const wat = true; // true, false는 text가 아닌 boolean이다.
 
 const floatEx = 55.1;
 
-
-
 // to do : finish this (single line comment)
 /* multi
  line 
  comment
  */ 
+
+ const PersonInfo = {
+	name : "SMJ",
+	age : 28,
+	gender : "Male",
+	isHandsome : true,
+	favMovies : ["Along the gods", "End game"],
+	favFood : [
+		{
+				name : "Kimchi", 
+				fatty : false
+		}, 
+		{
+				name : "Cheeseburger", 
+				fatty : true
+		}
+	]
+}
+
+console.log(PersonInfo);
+console.log(PersonInfo.age);
