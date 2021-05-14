@@ -33,3 +33,21 @@ console.log(PersonInfo);
 console.log(PersonInfo.age);
 
 console.log(console);
+
+function sayHello(name, age) {
+	console.log("Hello" + name + "you are" + age);
+	console.log(`Hello ${name} you are ${age} years old`);
+}
+
+const greetMinjun = sayHello("Minjun", 28)
+
+console.log(greetMinjun)
+
+const calculator = {
+	plus : function(a, b) {
+		return a + b;
+	}
+}
+
+const plus = calculator.plus(5, 5)
+console.log(plus)
