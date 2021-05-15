@@ -1,3 +1,12 @@
+
+const title = document.getElementById("title");
+
+console.log(title);
+
+title.innerHTML = "Hi! From JS";
+
+
+/*
 const a = 221; // 첫사용은 const로, let은 정말 필요할 때만.
 let b = a - 5;
 
@@ -44,10 +53,11 @@ const greetMinjun = sayHello("Minjun", 28)
 console.log(greetMinjun)
 
 const calculator = {
-	plus : function(a, b) {
+	plus_cal : function(a, b) {
 		return a + b;
 	}
 }
 
-const plus = calculator.plus(5, 5)
+const plus = calculator.plus_cal(5, 5)
 console.log(plus)
+*/
