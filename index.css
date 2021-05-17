@@ -3,9 +3,9 @@ body {
 }
 
 h1 {
-    color : white;
+    color :aliceblue;
 }
 
-#title {
-
+.clicked {
+    color :blue ;
 }
