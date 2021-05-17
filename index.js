@@ -1,41 +1,14 @@
 
 const title = document.querySelector("#title");
-/*
-title.innerHTML = "Hi! From JS";
-title.style.color = "red";
 
-console.log(title);
-console.dir(document);
+const CLIKED_CLASS = "clicked";
 
-document.title = "I own you now";
-*/
-
-function handleResize() {
-	//console.log(event);
-	console.log("I have been resized")
-}
-//window.addEventListener("resize", handleResize);
-
-function handleClick() {	
-	title.style.color = "blue";
+function handleClick () {
+	title.classList.toggle(CLIKED_CLASS);
 }
 
-title.addEventListener("click", handleClick);
-
-if(20 > 5 || "MJ" === "MA") {
-	console.log("yes");
-} else {
-	console.log("no");
+function init () {
+	title.addEventListener("click", handleClick);	
 }
 
-const age = prompt("How old are you?");
-console.log(age);
-
-if (age >= 18 && age <= 21) {
-	console.log("you can drink but you should not");
-} else if(age > 21) {
-	console.log("go ahead");
-} else {
-	console.log("you can't");
-}
-
+init();
