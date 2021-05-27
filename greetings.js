@@ -5,7 +5,7 @@ const form = document.querySelector(".js-form");
 const USER_LS = "currentUser",
   SHOW_CN = "showing";
 
-function saveItem(text) {
+function saveName(text) {
   localStorage.setItem(USER_LS, text);
 }
 
@@ -13,7 +13,8 @@ function handleSubmit(event) {
   event.preventDefault();
   const currentValue = input.value;
   paintGreetings(currentValue);
-  saveItem(currentValue);
+  saveName(currentValue);
+
 }
 
 function askForName() {
