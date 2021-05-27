@@ -12,7 +12,14 @@ function loadToDos() {
 }
 
 function paintToDo(text) {
-    console.log(text);
+    const li = document.createElement("li");
+    const delBtn = document.createElement("button");
+    delBtn.innerText = "❌";
+    const span = document.createElement("span");
+    span.innerText = text;
+    li.appendChild(delBtn);
+    li.appendChild(span);
+    toDoList.appendChild(li);
 }
 
 function handleSubmit(event) {
@@ -26,3 +33,5 @@ function init() {
     loadToDos();
     toDOform.addEventListener("submit", handleSubmit)
 }
+
+init();
