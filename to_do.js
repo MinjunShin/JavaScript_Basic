@@ -6,7 +6,7 @@ const TODOS_LS = "toDos";
 const toDos = [];
 
 function saveToDos() {
-  localStorage.setItem("TODOS_LS", JSON.stringify(toDos));
+  localStorage.setItem(TODOS_LS, JSON.stringify(toDos));
 }
 
 function paintToDo(text) {
@@ -43,12 +43,14 @@ function handleSubmit(event) {
 
 function loadToDos() {
     const loadedToDos = localStorage.getItem(TODOS_LS);
+    console.log("loadToDos func works!");
+
     if (loadedToDos !== null) {
-      //console.log(loadedToDos);
+      console.log("loadedToDos func works!");
       const parsedToDo = JSON.parse(loadedToDos);
-      //console.log(parsedToDo);
       parsedToDo.forEach(function(toDo) {
-        console.log(toDo.text);
+        console.log(parsedToDo);
+        paintToDo(toDo.text);
       });
     
     }
