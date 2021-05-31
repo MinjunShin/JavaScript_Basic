@@ -15,7 +15,7 @@ function paintToDo(text) {
   const newId = toDos.length + 1;
 
   delBtn.innerText = "❌";
-  delBtn.addEventListener("click", deleteToDo); 
+  delBtn.addEventListener("click", deleteToDo);  
   const span = document.createElement("span");
   span.innerText = text;
 
@@ -43,10 +43,8 @@ function handleSubmit(event) {
 
 function loadToDos() {
     const loadedToDos = localStorage.getItem(TODOS_LS);
-    console.log("loadToDos func works!");
-
+    
     if (loadedToDos !== null) {
-      console.log("loadedToDos func works!");
       const parsedToDo = JSON.parse(loadedToDos);
       parsedToDo.forEach(function(toDo) {
         paintToDo(toDo.text);
