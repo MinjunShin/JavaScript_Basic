@@ -7,18 +7,14 @@ body {
 }
 
 h1 {
-    color :black;
+    color :white
     transition: color .5s ease-in-out;
-}
-
-.clicked {
-    color :blue ;
 }
 
 .form,
 .greetings {
     display: none;
-
+    color : white
 }
 
 .showing {
@@ -44,3 +40,5 @@ h1 {
     animation : fadeIN 0.5s linear;
 }
 
+.js-clock,span {
+    color : rgb(252, 252, 252)
