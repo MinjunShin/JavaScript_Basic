@@ -2,19 +2,17 @@ body {
     background-color :rgb(230, 211, 230);
 }
 
-.btn {
-    cursor: pointer;
-}
-
 h1 {
     color :white
     transition: color .5s ease-in-out;
+    text-align:center;
 }
 
 .form,
 .greetings {
     display: none;
-    color : white
+    color : white;
+    text-align:center;
 }
 
 .showing {
@@ -40,5 +38,40 @@ h1 {
     animation : fadeIN 0.5s linear;
 }
 
-.js-clock,span {
-    color : rgb(252, 252, 252)
+.js-toDoForm, .js-clock{
+    color : white;
+    text-align:center;
+}
+
+input{
+    background : transparent;
+    border : none;
+}
+
+input::-webkit-input-placeholder {
+    opacity : 1;
+    color:white;
+    border-bottom :white 5px solid;
+}
+
+.js-weather{
+    position:relative;
+    top:50px;
+    left:20px;
+}
+
+
+ul{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+button {
+    cursor: pointer;
+    background-color: transparent;
+    font-size : 1.5em;
+    border : none;
+}
+    

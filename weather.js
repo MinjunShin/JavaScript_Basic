@@ -11,7 +11,7 @@ function getWeather(lat, lng){
         const temparature = json.main.temp;
         const temp_Feel = json.main.feels_like;
         const place = json.name;
-        weather.innerText = `${temparature} @ ${temp_Feel} @ ${place}`;
+        weather.innerText = `현재온도 : ${temparature} 체감온도 : ${temp_Feel} 위치 : ${place}`;
     });
 
 }
