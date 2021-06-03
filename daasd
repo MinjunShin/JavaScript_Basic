@@ -1,0 +1,287 @@
+[33mcommit 94650c23f54bd7ee1c38d512ea50503c5afb182b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Fri Jun 4 04:37:19 2021 +0900
+
+    Day4 챌린지 단락 수정
+
+[33mcommit b3ad00cafc4d57af6ef0e4c363fe6812c497be22[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Fri Jun 4 03:41:11 2021 +0900
+
+[33mcommit f215b73b7cb5fe3103eb07d15a586911988620da[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Wed Jun 2 23:22:10 2021 +0900
+
+    Day3 Challenge
+
+[33mcommit 1c93d3fa08cea918fd357884818cb46ba04664fb[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Wed Jun 2 01:12:56 2021 +0900
+
+    JS Clock 좀 더 꾸며보기
+
+[33mcommit fc157ecdeae0497f5caafd5fa4bf9cb107c03686[m
+Merge: 1a54f3f 1f3eaa6
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Tue Jun 1 23:40:25 2021 +0900
+
+    Merge branch 'master' of https://github.com/MinjunShin/JavaScript_Basic
+
+[33mcommit 1a54f3f59c47f654b8e0c45fbd8b8dd079ae7a2f[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Tue Jun 1 23:40:10 2021 +0900
+
+    Making JS Clock Finished!
+
+[33mcommit 1f3eaa6a1f5554880bfa8d2c77b625a22cc9399b[m
+Author: Minjun Shin <77579370+MinjunShin@users.noreply.github.com>
+Date:   Tue Jun 1 22:34:12 2021 +0900
+
+    Update README.md
+
+[33mcommit 17cd72e6e2ca4e372ba7d7c630a971db0a6382ae[m
+Author: Minjun Shin <77579370+MinjunShin@users.noreply.github.com>
+Date:   Tue Jun 1 22:33:44 2021 +0900
+
+    Create README.md
+
+[33mcommit 3b73db98077f5bdc3a4df50df82d2082e0807119[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Tue Jun 1 22:24:40 2021 +0900
+
+    Getting weather Part #1. Geolocation
+
+[33mcommit 77e3278c2552b0bd2a3a174b5b8290b7495ea1f1[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Mon May 31 23:21:10 2021 +0900
+
+    Image Background complete
+
+[33mcommit e872dc8a465893c0e359ec32a77e05aff8c1726c[m
+Merge: 22d7929 00207a6
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Mon May 31 22:42:22 2021 +0900
+
+    Merge branch 'master' of https://github.com/MinjunShin/JavaScript_Basic
+
+[33mcommit 22d79294df95f7332777e6e66fd544f164411931[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Mon May 31 22:42:06 2021 +0900
+
+    Image background #1.
+
+[33mcommit 00207a64b7721e57e59ce9db4a4bffed79f34b84[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Mon May 31 01:49:53 2021 +0900
+
+    Notion updates ~Making toDo List
+
+[33mcommit d9c165592aa9bf616274d6328f1b611c34a42c99[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Sun May 30 23:27:20 2021 +0900
+
+    Making a To Do List part #3. complete
+
+[33mcommit 90a6cfe61e11a103ceee6172f12b5e4b5de1ba49[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Sat May 29 18:32:26 2021 +0900
+
+    Making to-do list #2 complete
+
+[33mcommit ae7c09e5d36007388aaa8b888e5e408a013b29fe[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Sat May 29 01:28:29 2021 +0900
+
+    Making To Do List #2. (on progress)
+
+[33mcommit c0ca2c853dfb41a186c3e4713d4c471e1cad1129[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Fri May 28 03:15:37 2021 +0900
+
+    Making To-Do List #1. complete
+
+[33mcommit 6b257a6fa27d06bbae52b02db4f3f3987e896db7[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Fri May 28 03:00:56 2021 +0900
+
+    Making To-Do List #1.
+
+[33mcommit de363192ab166712da2877897666b168403c1b75[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Thu May 27 23:46:08 2021 +0900
+
+    1.html 수정
+
+[33mcommit bd1b694b150ac640961fdc7eaa26e4d9493781a5[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Wed May 26 01:39:29 2021 +0900
+
+    CSS코드의 재사용
+
+[33mcommit 9c3fd4115076199e2e2a8580999aa7b11fa79e27[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Wed May 26 00:57:53 2021 +0900
+
+    미디어쿼리 예제 실습
+
+[33mcommit c5e0ef9181e47b53dda31020c2342c5ee120626d[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Wed May 26 00:37:19 2021 +0900
+
+    그리드를 활용한 웹페이지 작성
+
+[33mcommit 30557fcec567f3f16e50db15774ae5ff4082b1f6[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Tue May 25 22:41:36 2021 +0900
+
+    CSS기본문법 ~ 박스모델
+
+[33mcommit 8596151ab4f2fcf88de7a3612f3aee1160bf9093[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Tue May 25 01:43:02 2021 +0900
+
+    CSS #1~4. CSS의 기본문법
+
+[33mcommit abf4d5cfa722a44375517581df322b95c5e3f86a[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Mon May 24 00:43:56 2021 +0900
+
+    Web1 강좌 부록
+
+[33mcommit 8e6695f3e710cdc8743389aa04b8790d2d3e45ea[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Sun May 23 23:30:32 2021 +0900
+
+    HTML Basic 완성
+
+[33mcommit 6a44aed08b60d5d65e6b6cc36f2d3bbe277172d6[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Sun May 23 19:58:30 2021 +0900
+
+    HTML Basic Study
+
+[33mcommit c486071a198dc55092cf043c045c71b0aed16cf1[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Sat May 22 18:26:44 2021 +0900
+
+    Save User Name #2.
+
+[33mcommit 0fe95506ab3616b7629913c18511d2c0310e7970[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Fri May 21 21:41:21 2021 +0900
+
+    revised mistype
+
+[33mcommit 029e60ffb598d9afd4e8e50f0e3772a41ac8d6d1[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Fri May 21 21:35:36 2021 +0900
+
+    Saving the User Name #2.
+
+[33mcommit 0b8e98a7d7eb27d8dad632adf6a67f608549109b[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Fri May 21 20:43:13 2021 +0900
+
+    Saving user name #1.
+
+[33mcommit d229a2facaaa7bac762593d3afe3be892a95a62a[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Thu May 20 17:36:17 2021 +0900
+
+    Making JS Clock #2
+
+[33mcommit 1ac114b8edfd307a982fb3c322b26077f9379456[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Wed May 19 20:39:39 2021 +0900
+
+    Making JS Clock 1.
+
+[33mcommit 89c2d13673868d13abf481535791b91e19ea8890[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Tue May 18 00:56:19 2021 +0900
+
+    DOM - If else - Function practice #2.
+
+[33mcommit 5a5bd9d831978316ce7992211190aa7c5efdf89b[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Tue May 18 00:15:20 2021 +0900
+
+    DOM - If else - Function practice #1.
+
+[33mcommit e6e7df3062751c333edb909be718cc49d002ddb6[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Mon May 17 23:53:19 2021 +0900
+
+    If, else, and, or
+
+[33mcommit 0c9bc92d479be3d3257d96bc58ddc8f21c9e1c75[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Mon May 17 23:38:44 2021 +0900
+
+    Events and event handlers
+
+[33mcommit e83262f8c9a48cfbae133455437272ae480b4361[m
+Author: MinjunShin <mj.irin1260@gmail.com>
+Date:   Mon May 17 23:19:06 2021 +0900
+
+    Modifying the DOM with JS
+
+[33mcommit ac25b5168e1f3336baa1dd34072547075a39a912[m
+Author: MinjunShin <pj0014@naver.com>
+Date:   Sat May 15 22:46:19 2021 +0900
+
+    #2.2 JS DOM Fuctions
+
+[33mcommit 4eb72159d1f8a8707119118d65f097d08ad8161b[m
+Author: MinjunShin <pj0014@naver.com>
+Date:   Fri May 14 23:20:29 2021 +0900
+
+    #2.1 More Fuction fun
+
+[33mcommit 2f6815433f985750385daab120e7590b9dbf17c7[m
+Author: MinjunShin <pj0014@naver.com>
+Date:   Sat Apr 24 22:52:29 2021 +0900
+
+    JS의 함수 작성법 : 기초
+
+[33mcommit f26e2500c9ece0e51c85b2f8c47d3795baa58958[m
+Author: MinjunShin <pj0014@naver.com>
+Date:   Tue Apr 20 01:42:00 2021 +0900
+
+    Object 를 통한 Data 정렬
+
+[33mcommit 956ee7e74f96fc3e3ed1adc30918756b30bbc985[m
+Author: MinjunShin <pj0014@naver.com>
+Date:   Sat Apr 17 23:49:48 2021 +0900
+
+    "임의 수정"
+
+[33mcommit 1aa876da9ee3381f0df0d1bf04270c8e82d20d8c[m
+Author: MinjunShin <pj0014@naver.com>
+Date:   Fri Apr 16 23:28:15 2021 +0900
+
+    const의 종류
+
+[33mcommit e3b80d9bb3e4b81b853685e0e4bacd0f58f3fce1[m
+Author: MinjunShin <pj0014@naver.com>
+Date:   Fri Apr 16 23:24:54 2021 +0900
+
+    -m "String"
+
+[33mcommit 3eecda52cdfd59d12b7b694dcc6d25d087c60b81[m
+Author: MinjunShin <pj0014@naver.com>
+Date:   Fri Apr 16 00:14:38 2021 +0900
+
+    add test line
+
+[33mcommit 02f8e681eee56512e901eedca6720e8c370e9f34[m
+Author: MinjunShin <pj0014@naver.com>
+Date:   Tue Apr 13 01:21:50 2021 +0900
+
+    1.7장 변수
+
+[33mcommit a32819f46d89bd08d0939889baa8a8516f17fe32[m
+Author: MinjunShin <pj0014@naver.com>
+Date:   Mon Apr 12 00:28:04 2021 +0900
+
+    first commit
