@@ -1,5 +1,5 @@
 // <⚠️ DONT DELETE THIS ⚠️>
-//import "./index.css";
+import "index.css";
 // <⚠️ /DONT DELETE THIS ⚠️>
 const h2 = document.querySelector(".head2");
 const body = document.querySelector("body");
@@ -11,8 +11,6 @@ function handleResize() {
     body.style.backgroundColor = "purple";
   else if (window.innerWidth <= 600) 
     body.style.backgroundColor = "blue";
- 
-  
 }
 
 function init() {
