@@ -125,6 +125,7 @@ function handleSubmit(event) {
   event.preventDefault();
   const currentValue = todoInput.value;
   paintToDo(currentValue);
+  todoInput.value="";
 }
 
 function loadToDos() {
