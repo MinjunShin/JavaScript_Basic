@@ -13,7 +13,6 @@ function solution(nums) {
       sum += element;     
       });      
     }
-
   }
   
   return answer;
