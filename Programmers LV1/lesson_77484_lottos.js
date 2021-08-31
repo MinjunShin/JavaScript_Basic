@@ -51,7 +51,7 @@ function solution(lottos, win_nums) {
   return answer;
 }
 
-solution(lottos, win_nums);
+
 
 //정답 코드
 function solution2(lottos, win_nums) {
@@ -70,3 +70,5 @@ function solution2(lottos, win_nums) {
   answer = [max, min]
   return answer;
 }
+
+solution2(lottos, win_nums);
