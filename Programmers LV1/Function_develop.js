@@ -1,16 +1,18 @@
 function solution(progresses, speeds) {
-  var answer = [];
+  let answer = [];
+  let beforeCommitDay = 0;
 
-  let stackArr = [];
+  progresses.map((a, i) => {
+      let day = Math.ceil((100 - a) / speeds[i]);   
 
-  for(let i = 0; i < progresses.length; i++) {
-    let works = progresses[i];
-    while(works >= 100) {
-      works += speeds[i]
-    }
-    stackArr.push[works]
-  }
-
+      if(day > beforeCommitDay) {
+          answer.push(1)
+          beforeCommitDay = day 
+      }
+      else {
+          answer[answer.length - 1]++
+      }
+  })
 
   return answer;
 }
